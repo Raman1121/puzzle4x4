@@ -3,12 +3,22 @@ A simple and fun picture solving game.
 
 ![Screenshot](/assets/screenshot1.png?raw=true )
 
-# How To Play
+## How to run the Project
 
-Click on the picture adjacent to the blank one to swap their positions.
+1) Download the zip file of the project and save it at a location of your choice.
 
-You may also use W A S D to move the blank picture.
+2) Open the IDE (for eg - Eclipse) of your choice and follow these steps.
 
-The game must be finished within 200 moves.
+![Screenshot](/assets/Screenshot2.jpg?raw=true )
 
-The score (which is equal to the moves left) will only be awarded when you finish solving the puzzle.
+3) Now, see if you can complete the game!
+
+## How To Play
+
+1) Click on the picture adjacent to the blank one to swap their positions.
+
+2) You may also use *** W A S D *** to move the blank picture.
+
+3) The game must be finished within 200 moves.
+
+4) The score (which is equal to the moves left) will only be awarded when you finish solving the puzzle.
