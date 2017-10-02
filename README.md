@@ -17,7 +17,7 @@ A simple and fun picture solving game.
 
 1) Click on the picture adjacent to the blank one to swap their positions.
 
-2) You may also use *** W A S D *** to move the blank picture.
+2) You may also use ***W A S D*** to move the blank picture.
 
 3) The game must be finished within 200 moves.
 
